@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **College Assignments**
 
-- 🌱 I’m currently learning **JavaFX**
+- 🌱 I’m currently learning **Doubly Linked Lists**
 
 - 📝 I regulary write articles on [https://blog.athfan.com](https://blog.athfan.com)
 
