@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Athfan Khaleel</h1>
 <h3 align="center">A (self-proclaimed) Fullstack Developer</h3>
 
-- 🔭 I’m currently working on **College Assignments**
+- 🔭 I’m currently working on **A Presentation **
 
-- 🌱 I’m currently learning **Doubly Linked Lists**
+- 🌱 I’m currently learning **fuck all**
 
 - 📝 I regulary write articles on [https://blog.athfan.com](https://blog.athfan.com)
 
