@@ -20,3 +20,8 @@
 <a href="https://instagram.com/athphane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="athphane" height="30" width="30" /></a>
 <a href="https://m.do.co/c/7e1209bc470a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/digitalocean.svg" alt="athphane-digitalocean-referral-link" height="30" width="30" /></a>
 </p>
+
+### Latest rants and wisdom
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
