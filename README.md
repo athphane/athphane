@@ -24,8 +24,8 @@
 ### Latest rants and wisdom
 
 <!-- BLOG-POST-LIST:START -->
-- [test for gh ations](https://blog.athfan.com/test-for-gh-ations/)
 - [Dhivatars - The Dhivehi Avatar API](https://blog.athfan.com/dhivatars/)
 - [laravel-programmer-quotes](https://blog.athfan.com/laravel-programmer-quotes/)
 - [Take Back Control of Your Passwords](https://blog.athfan.com/take-back-control-of-your-passwords/)
+- [Markdown Text Editor FTW.](https://blog.athfan.com/markdown-text-editor-ftw/)
 <!-- BLOG-POST-LIST:END -->
