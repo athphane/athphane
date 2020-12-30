@@ -21,6 +21,7 @@
 - [laravel-programmer-quotes](https://blog.athfan.com/laravel-programmer-quotes/)
 - [Take Back Control of Your Passwords](https://blog.athfan.com/take-back-control-of-your-passwords/)
 - [Markdown Text Editor FTW.](https://blog.athfan.com/markdown-text-editor-ftw/)
+- [Turn Yourself into a Bot](https://blog.athfan.com/turn-yourself-into-a-bot/)
 <!-- BLOG-POST-LIST:END -->
 
 
