@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Athfan Khaleel</h1>
 <h3 align="center">A (self-proclaimed) Fullstack Developer</h3>
 
-- 🔭 I’m currently working on **A UNDP Project**
+- 🔭 I’m currently working on **Etukuri Upgrades**
 
 - 🌱 I’m currently learning **API Development with [FastAPI](https://github.com/tiangolo/fastapi)**
 
@@ -12,6 +12,9 @@
 - 📫 How to reach me **github@athfan.com**
 
 - I am proud of **[Dhivatars](https://github.com/baivaru/dhivatar-http), User Avatar Placeholders, but in Dhivehi**
+
+### Come listen with me
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=athphane&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=athphane&redirect=true)
 
 
 ### Latest rants and wisdom
