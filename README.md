@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Etukuri Upgrades**
 
-- 🌱 I’m currently learning **API Development with [FastAPI](https://github.com/tiangolo/fastapi)**
+- 🌱 I’m currently learning **VueJS with Express backend**
 
 - 📝 I (try to) regulary write articles on [https://blog.athfan.com](https://blog.athfan.com)
 
