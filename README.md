@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Athfan Khaleel</h1>
 <h3 align="center">A (self-proclaimed) Fullstack Developer</h3>
 
-- 🔭 I’m currently working on **Etukuri Upgrades**
+- 🔭 I’m currently working on **Transparency Maldives Frontend design**
 
 - 🌱 I’m currently learning **VueJS with Express backend**
 
