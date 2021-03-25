@@ -14,7 +14,8 @@
 - I am proud of **[Dhivatars](https://github.com/baivaru/dhivatar-http), User Avatar Placeholders, but in Dhivehi**
 
 ### Come listen with me
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=athphane&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=athphane&redirect=true)
+[![Spotify](https://spotify-readme-eta.vercel.app/api/spotify)](https://open.spotify.com/user/athphane)
+
 
 
 ### Latest rants and wisdom
