@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Athfan Khaleel</h1>
 <h3 align="center">A (self-proclaimed) Fullstack Developer</h3>
 
-- 🔭 I’m currently working on **Transparency Maldives Frontend design**
+- 🔭 I’m currently working on **Maldives National Planning, Housing and Infrastructure website development**
 
-- 🌱 I’m currently learning **VueJS with Express backend**
+- 🌱 I’m currently learning **Nothing :(**
 
 - 📝 I (try to) regulary write articles on [https://blog.athfan.com](https://blog.athfan.com)
 
