@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Athfan Khaleel</h1>
 <h3 align="center">A (self-proclaimed) Fullstack Developer</h3>
 
-- 🔭 I’m currently working on **Maldives National Planning, Housing and Infrastructure website development**
+- 🔭 I’m currently working on **a Baivaru product**
 
 - 🌱 I’m currently learning **Nothing :(**
 
