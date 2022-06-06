@@ -21,11 +21,11 @@
 ### Latest rants and wisdom
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving Away From Google Analytics](https://blog.athfan.com/moving-away-from-google-analytics/)
+- [2021 In Review](https://blog.athfan.com/2021-in-review/)
 - [Namaadhu Vaguthu Bot 2021](https://blog.athfan.com/namaadhu-vaguthu-bot-2021/)
 - [2020 In Review](https://blog.athfan.com/2020-in-review/)
 - [Dhivatars - The Dhivehi Avatar API](https://blog.athfan.com/dhivatars/)
-- [laravel-programmer-quotes](https://blog.athfan.com/laravel-programmer-quotes/)
-- [Take Back Control of Your Passwords](https://blog.athfan.com/take-back-control-of-your-passwords/)
 <!-- BLOG-POST-LIST:END -->
 
 
