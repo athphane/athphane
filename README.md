@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Athfan Khaleel</h1>
 <h3 align="center">A Fullstack Developer</h3>
 
-<div align="center">
-![](https://komarev.com/ghpvc/?username=athphane&color=blue&style=for-the-badge)
-
-</div>
 
 - 🔭 I’m currently working on **a Baivaru product**
 
@@ -32,6 +28,9 @@
 - [2020 In Review](https://blog.athfan.com/2020-in-review/)
 - [Dhivatars - The Dhivehi Avatar API](https://blog.athfan.com/dhivatars/)
 <!-- BLOG-POST-LIST:END -->
+
+
+![](https://komarev.com/ghpvc/?username=athphane&color=blue&style=for-the-badge)
 
 
 <h3 align="left">Languages and Tools:</h3>
