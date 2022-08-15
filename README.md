@@ -2,7 +2,7 @@
 <h3 align="center">A Fullstack Developer</h3>
 
 <div align="center">
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=athphane&color=blue&style=for-the-badge)
 
 </div>
 
