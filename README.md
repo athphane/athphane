@@ -2,15 +2,15 @@
 <h3 align="center">A Fullstack Developer</h3>
 
 
-- 🔭 I’m currently working on **a Baivaru product**
+- 🔭 I’m currently working on **a money making idea**
 
-- 🌱 I’m currently learning **Nothing :(**
+- 🌱 I’m currently learning **filamentphp/filament**
 
 - 📝 I (try to) regulary write articles on [https://blog.athfan.com](https://blog.athfan.com)
 
-- 💬 Ask me about **Python and Telegram Bots**
+- 💬 Ask me about **how to code your next application**
 
-- 📫 How to reach me **github@athfan.com**
+- 📫 How to reach me: **don't**
 
 - I am proud of **[Dhivatars](https://github.com/baivaru/dhivatar-http), User Avatar Placeholders, but in Dhivehi**
 
