@@ -25,8 +25,8 @@
 - [Coding is fun](https://blog.athfan.com/coding-is-fun/)
 - [2022 In Review](https://blog.athfan.com/2022-in-review/)
 - [Installing MailHog On Windows As A Service](https://blog.athfan.com/mailhog-as-a-service-on-windows/)
-- [Moving Away From Google Analytics](https://blog.athfan.com/moving-away-from-google-analytics/)
 - [2021 In Review](https://blog.athfan.com/2021-in-review/)
+- [Namaadhu Vaguthu Bot 2021](https://blog.athfan.com/namaadhu-vaguthu-bot-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 
