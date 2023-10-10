@@ -4,15 +4,13 @@
 
 - 🔭 I’m currently working on **a money making idea**
 
-- 🌱 I’m currently learning **filamentphp/filament**
+- 🌱 I’m currently learning [filamentphp](https://filamentphp.com/)
 
 - 📝 I (try to) regulary write articles on [https://blog.athfan.com](https://blog.athfan.com)
 
 - 💬 Ask me about **how to code your next application**
 
-- 📫 How to reach me: **don't**
-
-- I am proud of **[Dhivatars](https://github.com/baivaru/dhivatar-http), User Avatar Placeholders, but in Dhivehi**
+- I am proud of **insert-something-im-proud-of-here**
 
 ### Come listen with me
 [![Spotify](https://spotify-readme-eta.vercel.app/api/spotify)](https://open.spotify.com/user/athphane)
