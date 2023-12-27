@@ -2,7 +2,7 @@
 <h3 align="center">A Fullstack Developer</h3>
 
 
-- 🔭 I’m currently working on **a money making idea**
+- 🔭 I’m currently working on **something that will revolutionalize the Maldivian Scout Association**
 
 - 🌱 I’m currently learning [filamentphp](https://filamentphp.com/)
 
