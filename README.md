@@ -5,6 +5,8 @@
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=athphane&theme=github-dark-dimmed&custom_title=Athphane%27s%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+### Things I'm doing
+
 - 🔭 I’m currently working on **something that will revolutionalize the Maldivian Scout Association**
 - 🌱 I’m currently learning [filamentphp](https://filamentphp.com/)
 - 📝 I (try to) regulary write articles on [https://blog.athfan.com](https://blog.athfan.com)
@@ -27,8 +29,6 @@
 - [2021 In Review](https://blog.athfan.com/2021-in-review/)
 <!-- BLOG-POST-LIST:END -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=athphane&color=blue&style=for-the-badge)
 
