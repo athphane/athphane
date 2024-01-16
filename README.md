@@ -26,7 +26,7 @@
 - [Coding is fun](https://blog.athfan.com/coding-is-fun/)
 - [2022 In Review](https://blog.athfan.com/2022-in-review/)
 - [Installing MailHog On Windows As A Service](https://blog.athfan.com/mailhog-as-a-service-on-windows/)
-- [2021 In Review](https://blog.athfan.com/2021-in-review/)
+- [Moving Away From Google Analytics](https://blog.athfan.com/moving-away-from-google-analytics/)
 <!-- BLOG-POST-LIST:END -->
 
 
