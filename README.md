@@ -22,11 +22,11 @@
 ### Latest rants and wisdom
 
 <!-- BLOG-POST-LIST:START -->
+- [Test Post](https://blog.athfan.com/test-post/)
 - [2023 In Review](https://blog.athfan.com/2023-in-review/)
 - [Coding is fun](https://blog.athfan.com/coding-is-fun/)
 - [2022 In Review](https://blog.athfan.com/2022-in-review/)
 - [Installing MailHog On Windows As A Service](https://blog.athfan.com/mailhog-as-a-service-on-windows/)
-- [Moving Away From Google Analytics](https://blog.athfan.com/moving-away-from-google-analytics/)
 <!-- BLOG-POST-LIST:END -->
 
 
