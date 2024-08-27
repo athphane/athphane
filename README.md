@@ -13,11 +13,6 @@
 - 💬 Ask me about **how to code your next application**
 - I am proud of **insert-something-im-proud-of-here**
 
-### Come listen with me
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=athphane&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=athphane&unique=1">
-
 
 ### Latest rants and wisdom
 
