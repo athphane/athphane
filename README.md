@@ -8,9 +8,9 @@
 ### Things I'm doing
 
 - 🔭 I’m currently working on **something that will revolutionalize the Maldivian Scout Association**
-- 🌱 I’m currently learning [filamentphp](https://filamentphp.com/)
+- 🌱 I’m currently learning to create a custom Minecraft Plugin for my Public (soon) Minecraft server.
 - 📝 I (try to) regulary write articles on [https://blog.athfan.com](https://blog.athfan.com)
-- 💬 Ask me about **how to code your next application**
+- 💬 Ask me about **Laravel and Python**
 - I am proud of **insert-something-im-proud-of-here**
 
 
