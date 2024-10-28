@@ -20,4 +20,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=athphane&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=athphane&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
